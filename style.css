@@ -1,0 +1,13 @@
+.robots {
+	border: 5px solid blue;
+	width: 400px;
+	padding:0px auto 0px auto;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 100%;
+	margin-left: auto;
+	margin-right: 10px;
+	margin-top: auto;
+	margin-bottom: 20px;
+	float: right;
+}
